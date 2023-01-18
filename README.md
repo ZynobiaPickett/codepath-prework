@@ -9,6 +9,7 @@ App Walk-though:
 
 
 Users/expandz/Desktop/Codepath-prework.gif
+
 I also uploaded the .gif file to the repository
 
 Required Features:
