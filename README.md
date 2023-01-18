@@ -4,7 +4,10 @@ App Description:
 App that allows you to introduce yourself (as a college student) by accepting user inputs in various forms, such as switches, text fields, segmented controls, and more.
 
 App Walk-though:
+
 *PLEASE SEE PATH*
+
+
 Users/expandz/Desktop/Codepath-prework.gif
 I also uploaded the .gif file to the repository
 
