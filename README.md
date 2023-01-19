@@ -5,10 +5,9 @@ App that allows you to introduce yourself (as a college student) by accepting us
 
 App Walk-though:
 
-*PLEASE SEE PATH*
+*PLEASE SEE FILE*
 
-
-Users/expandz/Desktop/Codepath-prework.gif
+Codepath-prework.gif
 
 I also uploaded the .gif file to the repository
 
