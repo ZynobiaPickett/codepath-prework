@@ -6,10 +6,8 @@ App that allows you to introduce yourself (as a college student) by accepting us
 App Walk-though:
 
 *PLEASE SEE FILE*
+Codepath-prework.gif in repository
 
-Codepath-prework.gif
-
-I also uploaded the .gif file to the repository
 
 Required Features:
 1. App displays an image of a school's logo [x]
